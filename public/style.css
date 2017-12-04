@@ -1,0 +1,15 @@
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.red-quote{
+  color: red;
+}
+#cats{
+  display: block;
+  flex-flow: row wrap;
+  -ms-align-items: left;
+  align-items: left;
+  width: 300px;
+}
